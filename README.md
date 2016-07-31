@@ -1,4 +1,4 @@
-# utkal-university
+# Utkal University Mobile App
 The 1st Utkal University App
 ![alt tag](https://github.com/sumeet-ru/utkal-university/raw/master/image/1.png)
 ![alt tag](https://github.com/sumeet-ru/utkal-university/raw/master/image/2.png)
